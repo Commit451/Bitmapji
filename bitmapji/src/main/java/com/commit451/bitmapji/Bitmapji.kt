@@ -10,7 +10,7 @@ import android.widget.TextView
 import androidx.annotation.Px
 
 /**
- * Allows you to load an emoji as a Bitmap! See [create].
+ * Allows you to load emoji as a Bitmap! See [create].
  */
 object Bitmapji {
 

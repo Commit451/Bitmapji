@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val size = resources.getDimensionPixelSize(R.dimen.bitmap_size)
         val bitmap = Bitmapji.create(
             this,
-            "☄",
+            "\uD83D\uDD25" + "❤️",
             size.toFloat()
         )
         image.setImageBitmap(bitmap)

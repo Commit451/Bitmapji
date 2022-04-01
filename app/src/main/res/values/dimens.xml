@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="bitmap_size">34dp</dimen>
+
+    <dimen name="confetti_velocity">200dp</dimen>
+    <dimen name="confetti_velocity_deviation">20dp</dimen>
 </resources>

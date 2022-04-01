@@ -27,7 +27,7 @@ object Bitmapji {
     }
 
     @SuppressLint("AppCompatCustomView")
-    private class CaptureTextView internal constructor(context: Context, var size: Float) : TextView(context) {
+    private class CaptureTextView(context: Context, var size: Float) : TextView(context) {
 
         fun capture(emoji: String?): Bitmap {
             setTextSize(TypedValue.COMPLEX_UNIT_PX, size)

@@ -3,22 +3,12 @@ Emoji as Bitmap for Android
 
 [![](https://jitpack.io/v/Commit451/Bitmapji.svg)](https://jitpack.io/#Commit451/Bitmapji)
 
-## Dependency
-Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.commit451/bitmapji/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.commit451/bitmapji)
 
-```gradle
-allprojects {
-	repositories {
-		...
-		maven { url "https://jitpack.io" }
-	}
-}
-```
-
-Then, add the library to your project `build.gradle`
-```gradle
+## Gradle
+```groovy
 dependencies {
-    implementation("com.github.Commit451:Bitmapji:latest.version.here")
+    implementation("com.commit451:bitmapji:latest.release.here")
 }
 ```
 

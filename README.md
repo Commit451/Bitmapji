@@ -1,8 +1,6 @@
 # Bitmapji
 Emoji as Bitmap for Android
 
-[![](https://jitpack.io/v/Commit451/Bitmapji.svg)](https://jitpack.io/#Commit451/Bitmapji)
-
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.commit451/bitmapji/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.commit451/bitmapji)
 
 ## Gradle
